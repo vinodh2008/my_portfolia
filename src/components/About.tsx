@@ -12,7 +12,7 @@ export const About = () => {
     <section id="about" className="py-24 relative bg-cover bg-center bg-no-repeat" style={{ backgroundImage: "url('/about-bg.jpg')" }}>
       <div className="absolute inset-0 bg-white/90 backdrop-blur-sm z-0" />
       
-      <div className="container mx-auto px-4 md:px-8 max-w-5xl relative z-10">
+      <div className="container mx-auto px-4 md:px-8 max-w-6xl relative z-10">
         <div className="flex flex-col items-center mb-16">
           <motion.h2 
             initial={{ opacity: 0, y: 20 }}
@@ -53,7 +53,7 @@ export const About = () => {
                 <span className="w-10 h-[2px] bg-blue-500 rounded-full shrink-0"></span>
                 The Journey
               </h3>
-              <div className="pl-13 space-y-4">
+              <div className="pl-[3.25rem] space-y-4">
                 <p className="text-slate-600 text-lg leading-relaxed">
                   I’m <span className="text-blue-600 font-bold underline decoration-blue-100 underline-offset-4">Vinodh</span>, a Diploma in Computer Engineering student from Andhra Pradesh. I am deeply passionate about 
                   <span className="text-slate-800 font-semibold mx-1">AI/ML, Web Development, and Networking</span>.

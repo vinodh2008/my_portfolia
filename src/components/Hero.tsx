@@ -28,7 +28,7 @@ export const Hero = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-lg text-slate-500 max-w-2xl leading-relaxed mx-auto lg:mx-0"
             >
-              I am a diploma computer engineering student from Andhra Pradesh, passionate about AI/ML, web development, and networking. I enjoy building projects that combine programming, data analysis, and real-world problem solving. Welcome to my personal space on the internet.
+              I am a Diploma in Computer Engineering student from Andhra Pradesh, passionate about AI/ML, web development, and networking. I enjoy building projects that combine programming, data analysis, and real-world problem solving. Welcome to my personal space on the internet.
             </motion.p>
 
             <motion.div
